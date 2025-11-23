@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>FOA</name>
+      <longname>Forces of Anticipation</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Infused Plains</name>
+      <set rarity="">FOA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)
+{1}, {T}: Draw a card.</text>
+    </card>
+    <card>
+      <name>Infused Island</name>
+      <set rarity="">FOA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)
+{1}, {T}: Draw a card.</text>
+    </card>
+    <card>
+      <name>Infused Swamp</name>
+      <set rarity="">FOA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)
+{1}, {T}: Draw a card.</text>
+    </card>
+    <card>
+      <name>Infused Mountain</name>
+      <set rarity="">FOA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)
+{1}, {T}: Draw a card.</text>
+    </card>
+    <card>
+      <name>Infused Forest</name>
+      <set rarity="">FOA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)
+{1}, {T}: Draw a card.</text>
+    </card>
+    <card>
+      <name>CR01 Red Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Red Flames deals 4 damage to target player.</text>
+    </card>
+    <card>
+      <name>CW01 White Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>White Flames deals 4 damage to target player.</text>
+    </card>
+    <card>
+      <name>CU01 Blue Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Blue Flames deals 4 damage to target player.</text>
+    </card>
+    <card>
+      <name>CB01 Black Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Black Flames deals 4 damage to target player.</text>
+    </card>
+    <card>
+      <name>CG01 Green Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Green Flames deals 4 damage to target player.</text>
+    </card>
+    <card>
+      <name>CW06 White Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a white card from your hand instead of paying White Counterbalance’s mana cost.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>CW02 Pearl Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Pearl Flames deals 3 damage to target player. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>CU02 Sapphire Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sapphire Flames deals 3 damage to target player. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>CB02 Jet Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Jet Flames deals 3 damage to target player. Mill two cards.</text>
+    </card>
+    <card>
+      <name>CR02 Ruby Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ruby Flames deals 4 damage to target player and 2 damage to you.</text>
+    </card>
+    <card>
+      <name>CG02 Emerald Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Emerald Flames deals 3 damage to target player. Add {C}.</text>
+    </card>
+    <card>
+      <name>CU03 Flames of Memory</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flames of Memory deals 4 damage to target player.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CR03 Flames of Insanity</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flames of Insanity deals 4 damage to target player.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>CB03 Flames of Eternity</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flames of Eternity deals 4 damage to target player.
+Escape—{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>CW03 Flames of Theology</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flames of Theology deals 4 damage to target player.
+Counterpoint {W} (You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)</text>
+    </card>
+    <card>
+      <name>CG03 Flames of Duplicity</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery - Fire </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Replicate 1G (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Flames of Duplicity deals 4 damage to target player.</text>
+    </card>
+    <card>
+      <name>CW04 Greater Pearl Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Greater Pearl Flames deals 4 damage to target player. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>CR04 Greater Ruby Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Greater Ruby Flames deals 6 damage to target player and 3 damage to you.</text>
+    </card>
+    <card>
+      <name>CB04 Greater Jet Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Greater Jet Flames deals 4 damage to target player. Mill four cards.</text>
+    </card>
+    <card>
+      <name>CU04 Greater Sapphire Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Greater Sapphire Flames deals 4 damage to target player. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CG04 Greater Emerald Flames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Fire </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Greater Emerald Flames deals 4 damage to target player. Add CC.</text>
+    </card>
+    <card>
+      <name>CW05 White Counterflames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant - Fire Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile two white cards from your hand instead of paying White Counterbalance’s mana cost.
+Counter target spell. White Counterflames deals 3 damage to that spell’s controller.</text>
+    </card>
+    <card>
+      <name>CU05 Blue Counterflames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant - Fire Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile two blue cards from your hand instead of paying White Counterbalance’s mana cost.
+Counter target spell. Blue Counterflames deals 3 damage to that spell’s controller.</text>
+    </card>
+    <card>
+      <name>CB05 Black Counterflames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant - Fire Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile two black cards from your hand instead of paying White Counterbalance’s mana cost.
+Counter target spell. Black Counterflames deals 3 damage to that spell’s controller.</text>
+    </card>
+    <card>
+      <name>CR05 Red Counterflames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant - Fire Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile two red cards from your hand instead of paying White Counterbalance’s mana cost.
+Counter target spell. Red Counterflames deals 3 damage to that spell’s controller.</text>
+    </card>
+    <card>
+      <name>CG05 Green Counterflames</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant - Fire Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile two green cards from your hand instead of paying White Counterbalance’s mana cost.
+Counter target spell. Green Counterflames deals 3 damage to that spell’s controller.</text>
+    </card>
+    <card>
+      <name>CU06 Blue Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a blue card from your hand instead of paying Blue Counterbalance’s mana cost.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>CB06 Black Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a black card from your hand instead of paying Black Counterbalance’s mana cost.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>CR06 Red Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a red card from your hand instead of paying Red Counterbalance’s mana cost.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>CG06 Green Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a green card from your hand instead of paying Green Counterbalance’s mana cost.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>CW07 White Counterquench</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a white card from your hand instead of paying White Counterquench’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target fire spell.</text>
+    </card>
+    <card>
+      <name>CW08 White Counterthought</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a white card from your hand instead of paying White Counterthought’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target thought spell.</text>
+    </card>
+    <card>
+      <name>CU07 Blue Counterquench</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a blue card from your hand instead of paying Blue Counterquench’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target fire spell.</text>
+    </card>
+    <card>
+      <name>CB07 Black Counterquench</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a black card from your hand instead of paying Black Counterquench’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target fire spell.</text>
+    </card>
+    <card>
+      <name>CR07 Red Counterquench</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a red card from your hand instead of paying Red Counterquench’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target fire spell.</text>
+    </card>
+    <card>
+      <name>CG07 Green Counterquench</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a green card from your hand instead of paying Green Counterquench’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target fire spell.</text>
+    </card>
+    <card>
+      <name>CU08 Blue Counterthought</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a blue card from your hand instead of paying Blue Counterthought’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target thought spell.</text>
+    </card>
+    <card>
+      <name>CB08 Black Counterthought</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a black card from your hand instead of paying Black Counterthought’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target thought spell.</text>
+    </card>
+    <card>
+      <name>CR08 Red Counterthought</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a red card from your hand instead of paying Red Counterthought’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target thought spell.</text>
+    </card>
+    <card>
+      <name>CG08 Green Counterthought</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile a green card from your hand instead of paying Green Counterthought’s mana cost. If you do, when you cast it, create a Treasure token.
+Counter target thought spell.</text>
+    </card>
+    <card>
+      <name>CW09 Pearl Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. You gain 1 life.
+Counterpoint {W} (You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)</text>
+    </card>
+    <card>
+      <name>CU09 Sapphire Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Counterpoint {U} (You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)</text>
+    </card>
+    <card>
+      <name>CB09 Jet Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Mill two cards.
+Counterpoint {B} (You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)</text>
+    </card>
+    <card>
+      <name>CR09 Ruby Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Ruby Counterbalance deals 2 damage to each player.
+Counterpoint {R} (You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)</text>
+    </card>
+    <card>
+      <name>CG09 Emerald Counterbalance</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant - Thought </type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Add {C}.
+Counterpoint {G} (You may cast this spell for its counterpoint cost as though it had flash as long as there are two or more spells on the stack.)</text>
+    </card>
+    <card>
+      <name>CB10 Memorial Return</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return two target cards from your graveyard to your hand.
+Flashback 2B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CU10 Visionify</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>CR10 Cathartic Sight</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard two cards, then draw three cards.</text>
+    </card>
+    <card>
+      <name>CG10 Druidic Relic</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Druidic Relic enters tapped.
+{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>CW10 Cleansing Balm</name>
+      <set rarity="common">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 5 life.</text>
+    </card>
+    <card>
+      <name>UU01 Focus of Anticipation</name>
+      <set rarity="uncommon">FOA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast spells as though they had flash.</text>
+    </card>
+    <card>
+      <name>UW01 Focus of Rejuvination</name>
+      <set rarity="uncommon">FOA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>UB01 Focus of Attrition</name>
+      <set rarity="uncommon">FOA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, Focus of Attrition deals 1 damage to target opponent.</text>
+    </card>
+    <card>
+      <name>UR01 Focus of Aggression</name>
+      <set rarity="uncommon">FOA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a source you control would deal damage to an opponent, it deals that much damage plus 1 to that player instead.</text>
+    </card>
+    <card>
+      <name>UG01 Focus of Filtration</name>
+      <set rarity="uncommon">FOA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, scry 2.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Treasure [Token]</name>
+      <set>FOA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+        <notes>!related CW07 White Counterquench;CW08 White Counterthought;CU07 Blue Counterquench;CU08 Blue Counterthought;CB07 Black Counterquench;CB08 Black Counterthought;CR07 Red Counterquench;CR08 Red Counterthought;CG07 Green Counterquench;CG08 Green Counterthought</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>CW07 White Counterquench</reverse-related>
+      <reverse-related>CW08 White Counterthought</reverse-related>
+      <reverse-related>CU07 Blue Counterquench</reverse-related>
+      <reverse-related>CU08 Blue Counterthought</reverse-related>
+      <reverse-related>CB07 Black Counterquench</reverse-related>
+      <reverse-related>CB08 Black Counterthought</reverse-related>
+      <reverse-related>CR07 Red Counterquench</reverse-related>
+      <reverse-related>CR08 Red Counterthought</reverse-related>
+      <reverse-related>CG07 Green Counterquench</reverse-related>
+      <reverse-related>CG08 Green Counterthought</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
